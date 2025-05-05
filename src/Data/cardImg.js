@@ -5,12 +5,12 @@ const cardImages = [
     { id: 4, src: "https://media.tenor.com/rZBXYcQXGYcAAAAe/peach-animated-gif.png", name: "Peach" },
     { id: 5, src: "https://png.pngtree.com/png-clipart/20240514/original/pngtree-cucumber-cartoon-png-image_15084630.png", name: "Cocumber" },
     { id: 6, src: "https://thumbs.dreamstime.com/b/cartoon-tomato-hand-drawn-vector-illustration-58834165.jpg", name: "Tomato" },
-    { id: 7, src: "https://us.123rf.com/450wm/orxbyte/orxbyte2501/orxbyte250110785/239697226-happy-green-bell-pepper-cartoon-character-design.jpg?ver=6", name: "Peber" },
-    { id: 8, src: "https://heyclipart.com/cdn/shop/files/8-onion-mascot-crying-vector-cartoon-illustration-47.jpg", name: "Onion" },
-    { id: 9, src: "https://img.freepik.com/free-vector/hand-drawn-carrot-cartoon-illustration_52683-128109.jpg", name: "Carrot" },
-    { id: 10, src: "https://png.pngtree.com/png-clipart/20240903/original/pngtree-cute-lemon-clipart-png-image_15919466.png", name: "Lemon" },
-    { id: 11, src: "https://img.freepik.com/premium-vector/cartoon-lettuce_665280-48650.jpg", name: "Lettuce"},
-    { id: 12, src: "https://i.pinimg.com/736x/01/35/b1/0135b1ae0a7f8e4ce5702f15e5780616.jpg", name: "SweetCorn"}
+    // { id: 7, src: "https://us.123rf.com/450wm/orxbyte/orxbyte2501/orxbyte250110785/239697226-happy-green-bell-pepper-cartoon-character-design.jpg?ver=6", name: "Peber" },
+    // { id: 8, src: "https://heyclipart.com/cdn/shop/files/8-onion-mascot-crying-vector-cartoon-illustration-47.jpg", name: "Onion" },
+    // { id: 9, src: "https://img.freepik.com/free-vector/hand-drawn-carrot-cartoon-illustration_52683-128109.jpg", name: "Carrot" },
+    // { id: 10, src: "https://png.pngtree.com/png-clipart/20240903/original/pngtree-cute-lemon-clipart-png-image_15919466.png", name: "Lemon" },
+    // { id: 11, src: "https://img.freepik.com/premium-vector/cartoon-lettuce_665280-48650.jpg", name: "Lettuce"},
+    // { id: 12, src: "https://i.pinimg.com/736x/01/35/b1/0135b1ae0a7f8e4ce5702f15e5780616.jpg", name: "SweetCorn"}
   ];
   
   export default cardImages;

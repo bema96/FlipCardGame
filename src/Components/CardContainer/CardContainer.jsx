@@ -6,7 +6,7 @@ import cardImages from '../../Data/cardImg';
 
 // Container for kortspillet
 export const CardContainer = () => {
-    const gameController = useGameController(cardImages, 12);
+    const gameController = useGameController(cardImages, 20); // attemtps
 
     return (
         <>

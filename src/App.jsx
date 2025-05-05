@@ -1,4 +1,4 @@
-import { CardContainer } from './Components/CardContainer/cardContainer'
+import { CardContainer } from './Components/CardContainer/CardContainer'
 
 function App() {
 
